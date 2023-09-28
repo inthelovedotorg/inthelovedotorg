@@ -32,26 +32,23 @@ const spreadLove = () => {
 spreadLove();
 ```
 ## Main Languages
-- Java
 - Node.js
-- Python
 
 ## Currently Learning
-- Kotlin
-- Go
-- PHP
+- Python 
 
 ## Fun fact
 I'm fluent in the language of love! :heart:
 
 ## Share Some Love!
+```javascript
 function spreadLove() {
     const loveMessage = "You are amazing and worthy of love! ❤️";
     console.log(loveMessage);
 }
 
 spreadLove();
-
+```
 ## Skills
 - JavaScript
 - HTML 
