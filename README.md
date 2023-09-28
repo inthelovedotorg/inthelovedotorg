@@ -25,7 +25,7 @@ const love = {
 };
 
 const spreadLove = () => {
-    const loveMessage = "You are loved and cherished! :heart:";
+    const loveMessage = "You are loved and cherished! ✨";
     console.log(loveMessage);
 }
 
