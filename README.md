@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="YOUR_IMAGE_URL" />
+        <img src="https://github.com/inthelovedotorg/inthelovedotorg/blob/main/zerotwo.gif" />
 </p>
 
 <p align="center">
