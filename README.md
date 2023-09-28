@@ -11,7 +11,7 @@
 <p align="center"><b>Info -</b></p>
 
 Hi there, I'm **Love**! ❤️
-
+```javascript
 const love = {
     name: "inthelovedotorg",
     age: 17,
@@ -30,7 +30,7 @@ const spreadLove = () => {
 }
 
 spreadLove();
-
+```
 ## Main Languages
 - Java
 - Node.js
