@@ -31,13 +31,13 @@ const spreadLove = () => {
 
 spreadLove();
 ```
-## Main Languages
+### Main Languages
 - Node.js
 
-## Currently Learning
+### Currently Learning
 - Python 
 
-## Fun fact
+### Fun fact
 I'm fluent in the language of love! :heart:
 
 ## Share Some Love!
