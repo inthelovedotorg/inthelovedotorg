@@ -8,7 +8,7 @@
    </a>
 </p>
 
-<p align="center"> ##Info - </p>
+## Info
 
 Hi there, I'm **Love**! ❤️
 ```javascript
