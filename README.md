@@ -21,7 +21,7 @@ const love = {
     learning: "Coding",
     databases: ["MongoDB"],
     funFacts: ["Believes in spreading love everywhere", "Loves to code with a heart"],
-    currentFocus: "Learning and spreading love through code! :heart:",
+    currentFocus: "Learning and spreading love through code! 🖤",
 };
 
 const spreadLove = () => {
