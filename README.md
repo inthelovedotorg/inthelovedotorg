@@ -14,7 +14,7 @@ Hi there, I'm **Love**! ❤️
 ```javascript
 const love = {
     name: "inthelovedotorg",
-    age: 17,
+    age: 18,
     pronouns: "He | Him",
     languages: ["Node.js", "HTML", "CSS"],
     occupation: "Student",
