@@ -16,7 +16,7 @@ const love = {
     name: "inthelovedotorg",
     age: 18,
     pronouns: "He | Him",
-    languages: ["Node.js", "HTML", "CSS"],
+    languages: ["Javascript", "HTML", "CSS"],
     occupation: "Student",
     learning: "Coding",
     databases: ["MongoDB","sqlite"],
@@ -32,7 +32,7 @@ const spreadLove = () => {
 spreadLove();
 ```
 #### Main Languages
-- Node.js
+- Javascript 
 
 #### Currently Learning
 - Python 
