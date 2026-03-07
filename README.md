@@ -36,6 +36,7 @@ spreadLove();
 
 #### Currently Learning
 - Python 
+- Java
 
 #### Fun fact
 I'm fluent in the language of love! :heart:
